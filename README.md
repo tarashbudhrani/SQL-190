@@ -5,11 +5,9 @@ I’m on a journey to strengthen my SQL skills by tackling **194 real interview 
 ---
 
 ## 🔎 Current Progress
-- **Solved:** 100 / 194  
+- **Solved:** 110 / 194  
 - **Status:** 🚧 Still in progress  
 - **Last Updated:** September 2025  
-
-I’ll keep adding more solutions as I move forward. Each query is written with clarity and explanation in mind, so others preparing for interviews can also benefit.
 
 ---
 
@@ -21,7 +19,8 @@ SQL is essential across many roles, including:
 
 This repository is my way of practicing through real-world style interview problems while sharing the solutions openly.  
 
----
 
-Stay tuned — I’m working my way towards **194/194 completion** 🚀
+
+
+
 

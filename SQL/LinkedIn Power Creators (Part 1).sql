@@ -1,0 +1,5 @@
+select profile_id from personal_profiles
+join company_pages
+on personal_profiles.employer_id=company_pages.company_id
+and personal_profiles.followers>company_pages.followers
+order by profile_id
